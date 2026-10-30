@@ -4,7 +4,7 @@
 
 ## 组件
 
-- [ea](skills/ea/SKILL.md)：Engineering Analysis 开发草稿，固化 PRD 之后、Spec/Plan 之前的核心工程思路。
+- [ea](docs/ea/README.md)：Engineering Analysis 开发草稿，固化 PRD 之后、Spec/Plan 之前的核心工程思路。
 
 - [codex-window](skills/codex-window/SKILL.md)：定时刷新 codex 5h 额度, 创建或联动调整三个每日定时任务，间隔为 5 小时 5 分钟。
 
